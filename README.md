@@ -2037,6 +2037,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sanket Pol](https://github.com/sanketmp)
   - [Sanskar Khandelwal](https://github.com/Sanskar-khandelwal)
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
+  - [Sanskriti Gupta](https://github.com/SanskritiGupta05)
   - [Santiago Roussineau](https://github.com/roussineau)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sanyam Singh](https://github.com/sanyamx)
